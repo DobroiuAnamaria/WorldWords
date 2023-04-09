@@ -55,5 +55,6 @@ namespace WebApplication1.Service
         {
             return await _userRepository.DeleteAsync(id);
         }
+
     }
 }

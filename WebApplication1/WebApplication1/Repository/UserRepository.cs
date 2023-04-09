@@ -5,14 +5,12 @@ namespace WebApplication1.Repository
 {
     public class UserRepository : IUserRepository
     {
-        private readonly DbContext _dbContext;
+        private readonly AppDbContext _dbContext;
 
-        public UserRepository(DbContext dbContext)
+        public UserRepository(AppDbContext dbContext)
         {
             _dbContext = dbContext;
         }
-
-
 
         public async Task<User> FindByIdAsync(int id)
         {
@@ -22,7 +20,7 @@ namespace WebApplication1.Repository
             return user;
 
         }
-
+        
         public async Task<List<User>> GetAllAsync()
         {
             return await _dbContext.Users.ToListAsync();

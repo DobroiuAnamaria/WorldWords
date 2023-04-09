@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3Do8NYQ5AvMG4baIEhBv6OMbN/4kBb4T/ESoe/2HUrrdMt6Ic9F8+IfYgewZqmah1RoojKRjbWE6ELtyDJjIxw==",
+  "dgSpecHash": "hPCpU3cI2N4f0dM0PE/l4RO3TM6aix6w0e7iWHyDYGjHrHN/BY6uKT/1QtoTkk4te4sbiYmQQPdxbFjIn1y1Mw==",
   "success": true,
   "projectFilePath": "D:\\Accessa\\WorldWords\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

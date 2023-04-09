@@ -91,3 +91,4 @@ D:\Accessa\WorldWords\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\We
 D:\Accessa\WorldWords\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
 D:\Accessa\WorldWords\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
 D:\Accessa\WorldWords\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+D:\Accessa\WorldWords\WebApplication1\WebApplication1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -1,5 +1,4 @@
-﻿
-using WebApplication1.Model;
+﻿using WebApplication1.Model;
 using Microsoft.AspNetCore.Mvc;
 using WebApplication1.Service;
 
@@ -25,7 +24,7 @@ namespace WebApplication1.Controler
             return Ok(await _userService.GetAllUsersAsync());
         }
 
-        [HttpGet("id")]
+        [HttpGet("{id}")]
         public async Task<ActionResult<UserViewModel>> GetById(int id)
         {
             return Ok(await _userService.GetUserById(id));
